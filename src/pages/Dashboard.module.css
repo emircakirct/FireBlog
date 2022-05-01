@@ -1,0 +1,21 @@
+.firstOne{
+    background-image: url(https://cars.usnews.com/images/article/202012/128775/1_2021_bugatti_chiron_super_sport.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    
+}
+
+.dashboard{
+    text-align: center;
+    font-size: xx-large;
+    color: brown;
+}
+
+.dashboard1{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:1rem;
+}

@@ -1,0 +1,29 @@
+.toolbar{
+    background-color:orangered;
+    display: flex;
+    justify-content: space-between;
+}
+
+.emirLogo{
+    height:5rem;
+    width:5rem;
+}
+
+.para1{
+margin:auto;
+cursor:pointer;
+position:static; 
+display:inline-block;
+}
+
+.blog1{
+color:#ffd700;
+font-family:sans-serif;
+}
+
+.blog2{
+    position: absolute;
+    right:4rem;
+    top:4rem;
+}
+
